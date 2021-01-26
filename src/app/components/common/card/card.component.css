@@ -1,0 +1,21 @@
+.wrapper{
+  padding: 20px;
+}
+
+.icon{
+  margin: 10px 0;
+  height: 90px;
+  width: 90px;
+}
+
+.title{
+  margin: 10px 0;
+  font-family:  Montserrat-SemiBold;
+  font-size: 15px;
+}
+
+.subtitle{
+  margin: 10px 0;
+  font-family:  Montserrat-SemiBold;
+  font-size: 15px;
+}
